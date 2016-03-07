@@ -51,8 +51,6 @@ public class MainActivity extends Activity {
 
     /**
      * Called when you press new game.
-     *
-     * @param view the New Game Button
      */
     public void newGame(View view) {
         is_O_turn = false;
@@ -110,8 +108,6 @@ public class MainActivity extends Activity {
     /**
      * This is a main algorithm for checking if a specific player has won.
      * @return true if the specified player has won
-     *
-     * Kindly have a look at the image (given after this section) for more details on this scction.
      */
     private boolean checkWinner(char[][] board, int size, char player) {
         //First we check all rows
