@@ -10,7 +10,10 @@ It has three sections :
 <b>3. Checking if the diagonals have the same value(boolean). </b> <br>
 
 That's it , rest is pretty much simple.
+<br>
 <b> Please note : </b>
 To add the sting names according to your choice in values folder.
 Adding/modifying color in the color folder placed in values folder.
+.java is commented well, follow that ! 
+
 
